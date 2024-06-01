@@ -13,7 +13,6 @@ comment is blurred to maintain a healthy conversation environment.
 
 The graphical representation of toxicity levels provides users with a clear understand-
 ing of the nature and extent of toxicity in their comments, promoting self-awareness and
-
 encouraging more respectful interactions. TOXITRACK AI aims to foster a safer and
 more positive online community by leveraging artificial intelligence to support effective
 content moderation and enhance user experiences, creating a public chat space where
